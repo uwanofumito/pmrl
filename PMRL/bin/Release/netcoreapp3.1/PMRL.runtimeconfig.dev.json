@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\uwano\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\uwano\\.nuget\\packages"
+    ]
+  }
+}

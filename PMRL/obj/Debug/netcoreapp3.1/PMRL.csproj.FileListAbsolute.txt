@@ -1,0 +1,13 @@
+C:\Users\uwano\source\repos\PMRL\PMRL\bin\Debug\netcoreapp3.1\PMRL.exe
+C:\Users\uwano\source\repos\PMRL\PMRL\bin\Debug\netcoreapp3.1\PMRL.deps.json
+C:\Users\uwano\source\repos\PMRL\PMRL\bin\Debug\netcoreapp3.1\PMRL.runtimeconfig.json
+C:\Users\uwano\source\repos\PMRL\PMRL\bin\Debug\netcoreapp3.1\PMRL.runtimeconfig.dev.json
+C:\Users\uwano\source\repos\PMRL\PMRL\bin\Debug\netcoreapp3.1\PMRL.dll
+C:\Users\uwano\source\repos\PMRL\PMRL\bin\Debug\netcoreapp3.1\PMRL.pdb
+C:\Users\uwano\source\repos\PMRL\PMRL\obj\Debug\netcoreapp3.1\PMRL.csprojAssemblyReference.cache
+C:\Users\uwano\source\repos\PMRL\PMRL\obj\Debug\netcoreapp3.1\PMRL.AssemblyInfoInputs.cache
+C:\Users\uwano\source\repos\PMRL\PMRL\obj\Debug\netcoreapp3.1\PMRL.AssemblyInfo.cs
+C:\Users\uwano\source\repos\PMRL\PMRL\obj\Debug\netcoreapp3.1\PMRL.csproj.CoreCompileInputs.cache
+C:\Users\uwano\source\repos\PMRL\PMRL\obj\Debug\netcoreapp3.1\PMRL.dll
+C:\Users\uwano\source\repos\PMRL\PMRL\obj\Debug\netcoreapp3.1\PMRL.pdb
+C:\Users\uwano\source\repos\PMRL\PMRL\obj\Debug\netcoreapp3.1\PMRL.genruntimeconfig.cache
