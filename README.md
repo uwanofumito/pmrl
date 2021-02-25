@@ -7,4 +7,4 @@ the locations of starts have the form which 'width'x'height'x'the num. of agents
 This program performs with the above two files in the same hierarchy.
 
 This PMRL has two modes, on and off communication modes. The 'Communication' column in config.csv changes PMRL modes.
-The agents share the stored steps in the on communication mode, on the other hand, the agents calculate the steps of others based on frequency of reaching goals in the off communication mode. The agents calculates the equations (2) and (3) based on those steps.
+The agents share the stored steps in the on communication mode, on the other hand, the agents calculate the steps of others based on frequency of reaching goals in the off communication mode. The agents calculate the equations (2) and (3) based on those steps.
