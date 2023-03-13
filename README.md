@@ -1,5 +1,5 @@
 This program is based on the following paper. <br>
-https://www.jstage.jst.go.jp/article/jcmsi/11/4/11_321/_article/-char/en
+https://arxiv.org/abs/2110.05773
 
 This program requires two files, config.csv and envData.csv in 'Release/netcoreapp3.1/' directory.
 config.csv includes configs of the proposed method and other. envData.csv includes the details of the environments. This table have some parameters, initial learning iterations, width of env., height of env., the number of agents, the num. of goals, the locations of starts, the locations of goals in order from the left.
